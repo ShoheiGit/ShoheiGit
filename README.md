@@ -1,8 +1,4 @@
 <p align="left">
-  <img width="100%" height="auto" src="https://github.com/hidesan4869/hidesan4869/blob/main/img/asunoyozora.jpg">
-</p>
-
-<p align="left">
   <a href="https://github.com/hidesan4869/hidesan4869/">
     <img src="https://komarev.com/ghpvc/?username=hidesan4869" alt="hidesan4869" />
   </a>
