@@ -1,23 +1,42 @@
-# About Me
+<p align="left">
+  <img width="100%" height="auto" src="https://github.com/hidesan4869/hidesan4869/blob/main/img/asunoyozora.jpg">
+</p>
 
-1. I'm a web frontend and backend developer from Japan
+<p align="left">
+  <a href="https://github.com/hidesan4869/hidesan4869/">
+    <img src="https://komarev.com/ghpvc/?username=hidesan4869" alt="hidesan4869" />
+  </a>
+  <a href="http://twitter.com/hidesan4869">
+    <img height="20" src="https://img.shields.io/twitter/follow/hidesan4869?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/hidesan4869">
+    <img height="20" src="https://img.shields.io/github/followers/hidesan4869?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/hidesan4869">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/hidesan4869?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/hidesan4869">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/hidesan4869">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hidesan4869/posts.svg" />
+  </a>
+  <//qiita.com/hidesan4869">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hidesan4869/contributions.svg" />
+  </a>
+</p>
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+[![trophy](https://github-profile-trophy.vercel.app/?username=hidesan4869&rank=S,AAA,AA,A,B,C&theme=dracula)](https://github.com/hidesan4869/github-profile-trophy)
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+</p>
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+[![My Skills](https://skillicons.dev/icons?i=laravel,symfony,php,ts,js,react,next,vue,vuetify,python,aws,docker,jenkins,html,sass,tailwind,css,bash,powershell,github,notion,npm)](https://skillicons.dev)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hidesan4869&theme=dracula&utcOffset=8)
